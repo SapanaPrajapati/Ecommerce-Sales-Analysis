@@ -25,6 +25,7 @@ The goal is to provide management with actionable insights through a one-page da
 ## 📂 Dataset
 
 **Dataset:** Olist Brazilian E-Commerce Dataset
+
 **Final Dataset:** final_dataset2-compressed.xlsx
 
 Files Used:
@@ -168,7 +169,6 @@ The majority of orders are successfully delivered.
 ```text
 E-Commerce-Sales-Analysis
 │
-├── Dataset
 │
 ├── Python
 │   └── E_Commerce_Sales_Analysis.ipynb
@@ -181,15 +181,6 @@ E-Commerce-Sales-Analysis
 │
 ├── PowerBI Dashboard Screenshot
 │   └── PI ECommerce Sales Analysis.JPG
-│
-├── Visualizations
-│   ├── Revenue_by_Category.png
-│   ├── Monthly_Sales_Trend.png
-│   ├── Review_Distribution.png
-│   ├── Heatmap.png
-│   └── Order_Status.png
-│
-├── Dashboard Screenshot
 │
 └── README.md
 ```
