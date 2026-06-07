@@ -174,7 +174,7 @@ E-Commerce-Sales-Analysis
 │   └── E_Commerce_Sales_Analysis.ipynb
 │
 ├── SQL │
-│   └── SQL_Queries.sql
+│   └── E-Commerce Sales Analysis.sql
 │
 ├── Excel
 │   └── final_dataset2.xlsx
